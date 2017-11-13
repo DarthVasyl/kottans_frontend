@@ -14,3 +14,5 @@
   I learned new git commands: reset and rm when passed this tutorial.
   
 	![Try Git](screenshots/try-git.png)
+	
+- [x] Create pull request to [Kottans/mock-repo](https://github.com/kottans/mock-repo).
