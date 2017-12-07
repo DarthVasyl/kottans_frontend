@@ -16,3 +16,11 @@
 	![Try Git](screenshots/try-git.png)
 	
 - [x] Create pull request to [Kottans/mock-repo](https://github.com/kottans/mock-repo).
+
+
+**Task 1**
+
+- [x] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+	It was simple and interesting course about console commands.
+	
+	![Linux Command Line Basics](screenshots/linux-terminal.png)
